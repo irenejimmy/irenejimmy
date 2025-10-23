@@ -37,7 +37,7 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/irene-jimmy-639896327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="40"/></a>
+  <a href="[https://linkedin.com/in/yourpofiler](https://www.linkedin.com/in/irene-jimmy-639896327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="mailto:irenejimmy007@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.instagram.com/irenejimmyy?igsh=bjE5OHdkbG00YTI5"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
