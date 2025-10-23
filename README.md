@@ -1,7 +1,7 @@
 <!-- 🌸 Soft Pink Aesthetic GitHub Profile README -->
 
-<h1 align="center">🌷 Hi, I'm <span style="color:#e8a6b7;">Irene Jimmy</span> 🌷</h1>
-<h3 align="center">A passionate learner & developer who loves soft colors and clean design ✨</h3>
+<h1 align="center"> Hi, I'm <span style="color:#e8a6b7;">Irene Jimmy</span> </h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8a6b7,100:fadadd&height=120&section=header"/>
